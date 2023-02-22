@@ -1,5 +1,7 @@
 # actors
 # apk can be found inside the release-apk folder
+# stores favourite actor and image locally with sqflite
+# snackbar to notify users when they save/delete an item
 # screenshots
 ![image](https://user-images.githubusercontent.com/74180772/220728911-4d5edf08-942f-47c5-9cfc-29dd2b9a7240.png)
 ![image](https://user-images.githubusercontent.com/74180772/220728970-7a075a03-9a48-44fd-9bab-2795219b9ebf.png)
