@@ -1,6 +1,6 @@
 # actors
-
-screenshots
+#apk can be found inside the release-apk folder
+#screenshots
 ![image](https://user-images.githubusercontent.com/74180772/220728911-4d5edf08-942f-47c5-9cfc-29dd2b9a7240.png)
 ![image](https://user-images.githubusercontent.com/74180772/220728970-7a075a03-9a48-44fd-9bab-2795219b9ebf.png)
 ![image](https://user-images.githubusercontent.com/74180772/220729024-658cfdcd-4a21-4bd0-a3dc-6a47cb0c2bd0.png)
